@@ -1,6 +1,9 @@
 # CloudMusicApi
 网易云音乐API接口获取和分析
 
+# csdn地址：
+http://blog.csdn.net/qq_31673689/article/details/78615448
+
 通过分析各种页面，发现参数加密方式都是一致的，所以这就很简单了，其它的接口也都出来了。下面做个总结：
 
 
